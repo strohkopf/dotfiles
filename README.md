@@ -4,7 +4,7 @@ personal config inspired by [vimcasts](http://vimcasts.org/episodes/synchronizin
 
 ## Installation
 ```sh
-git clone ...
+git clone https://github.com/strohkopf/dotfiles.git
 cd dotfiles 
 ./bootstrap.sh
 ```
