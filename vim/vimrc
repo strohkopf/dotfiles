@@ -1,0 +1,11 @@
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+set nu
+set mouse=a
+color industry
+
+autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab list
+" disable folding for markdown.vim plugin
+"let g:vim_markdown_folding_disabled = 1
