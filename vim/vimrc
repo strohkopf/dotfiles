@@ -4,7 +4,12 @@ filetype plugin indent on
 
 set nu
 set mouse=a
-color industry
+
+try
+	color industry
+catch 
+	color desert
+endtry
 
 autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab list
 " disable folding for markdown.vim plugin

@@ -13,6 +13,6 @@ cd dotfiles
 For documentation check the website of the plugins.
 
 - [sensible](https://github.com/tpope/vim-sensible)
-- [nerdtree](https://github.com/scrooloose/nerdtre)
+- [nerdtree](https://github.com/scrooloose/nerdtree)
 - [markdown](https://github.com/plasticboy/vim-markdown)
 - [airline](https://github.com/vim-airline/vim-airline)
